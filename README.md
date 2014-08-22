@@ -17,7 +17,9 @@ Then also update `dev_runner.sh` and `Makefile` with the usage of those keys, so
 ## Development
 For developing on sab, we have a handy shell script to boot up an instance with the necessary environment data.
 
-```./dev_runner.sh```
+```
+./dev_runner.sh
+```
 
 _If it says you need to remove `scripts/mongolab-brain.coffee`, do that so your testing doesn't affect the production MongoDB database._
 

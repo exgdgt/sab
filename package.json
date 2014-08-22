@@ -18,7 +18,7 @@
     "cheerio": "0.12.x",
     "htmlcarve": "0.0.1",
     "htmlparser": "1.7.6",
-    "hubot": ">=2.4.8",
+    "hubot": "^2.8.1",
     "hubot-baseball": "^0.1.0",
     "hubot-codingexcuses": "0.0.1",
     "hubot-hr-warning": "^2.0.0",

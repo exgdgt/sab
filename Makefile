@@ -1,4 +1,4 @@
-source config.sh
+include config.sh
 
 init-heroku:
 	heroku config:add TZ="America/Los_Angeles"
